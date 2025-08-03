@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B+I'm+Nisarga+Patil!;AI+%26+Full+Stack+Developer;Passionate+Problem+Solver+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/Nisarga-patil/Nisarga-patil/assets/your-image-id" height="150" width="150" alt="avatar" />
-</p>
 
 ---
 
