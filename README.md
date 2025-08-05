@@ -11,7 +11,7 @@
 🎓 B.E. CSE @ RVITM, Bangalore (2026)  
 🧠 Passionate about building AI tools for education & productivity  
 💻 Currently focused on **LLMs, RAG systems, and full-stack web apps**  
-🎯 Love working on meaningful problems that impact real users  
+🎯 Love working on meaningful problems that impact real users 
 
 ---
 
