@@ -36,7 +36,7 @@
 
 ### 🧑‍💻 DevAssist – Interview Prep App  
 🚀 *Built with React, Firebase, Firestore, Tailwind*  
-🎯 Resume builder, Pomodoro timer, DSA streak dashboard  
+🎯 Resume builder, Pomodoro timer, DSA streak dashboard
 [🌐 Live Demo](https://dev-assist-ten.vercel.app) • [🔗 GitHub](https://github.com/Nisarga-patil/DevAssist)
 
 ---
