@@ -46,14 +46,6 @@
 
 ---
 
-## 🧠 Certifications
-
-- 🧠 **Machine Learning for All** – Coursera | [🔗 Verify](https://coursera.org/verify/LOXXJY52GZHN)
-- 🤖 **Large Language Models** – NPTEL (IIT Madras)
-
----
-
-
 ## 🧑‍💼 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/Nisarga%20Patil-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/nisarga-patil21)
