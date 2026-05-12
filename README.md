@@ -5,11 +5,9 @@
 
 
 ---
-## My Portfolio
-[nisargapatil.onrender.com/](https://nisargapatil.onrender.com/)
+
 ## 💁‍♂️ About Me
 
-🎓 B.E. CSE @ RVITM, Bangalore (2026)  
 🧠 Passionate about building AI tools for education & productivity  
 💻 Currently focused on **LLMs, RAG systems, and full-stack web apps**  
 🎯 Love working on meaningful problems that impact real users 
@@ -55,14 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nisarga-patil&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisarga-patil&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
 
 ## 🧑‍💼 Let’s Connect!
 
